@@ -7,13 +7,15 @@
 
 
 2. Inspeção de informações das interfaces, endereços MAC, IP e portas
-   - h1 ifconfig
-
-
-![Captura de tela 2024-10-21 205026](https://github.com/user-attachments/assets/fdc0b57e-90e1-4951-b192-c621c3ff5df9)
-3. Testes de ping entre diferentes nós
+   - h1 ifconfig -> Para listar as interfaces de um host
+   - dump -> Para visualizar o IP de todos os hosts:
 
 ![Captura de tela 2024-10-21 204957](https://github.com/user-attachments/assets/55284276-d813-4ff4-aa38-3b891bb7a5aa)
+
+
+3. Testes de ping entre diferentes nós
+![Captura de tela 2024-10-21 205026](https://github.com/user-attachments/assets/fdc0b57e-90e1-4951-b192-c621c3ff5df9)
+
 4. Configuração de servidor e cliente TCP usando iperf
 h1 iperf -s -p 5555
 h2 iperf -c h1 -p 5555 -t 10 -i 1
