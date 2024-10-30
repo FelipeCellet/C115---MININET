@@ -8,6 +8,7 @@
 2. Inspeção de informações das interfaces, endereços MAC, IP e portas
 
    - h1 ifconfig -> Para listar as interfaces de um host
+
 ![Captura de tela 2024-10-30 114725](https://github.com/user-attachments/assets/ae6f63f7-feb6-4579-aa58-841af18e0b16)
 
 ![Captura de tela 2024-10-30 114823](https://github.com/user-attachments/assets/839cf670-80ed-458e-a67d-86ec24c51fb1)
