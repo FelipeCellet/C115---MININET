@@ -46,7 +46,7 @@
 
 ![NODES](https://github.com/user-attachments/assets/246641df-4644-4599-ba3a-364f048cbca5)
 
-3. Testes de ping entre diferentes nós
+ - Testes de ping entre diferentes nós
 
 ![PINGALL](https://github.com/user-attachments/assets/9c6c6e28-5d47-4861-a848-9b694b61bdb1)
 
