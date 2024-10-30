@@ -1,7 +1,7 @@
 # C115 - MININET
  MININET
 1. Criação da topologia com o comando
- - sudo mn --topo tree,depth=4,fanout=2 --link tc,bw=25
+ - sudo mn --mac --topo tree,depth=4,fanout=2 --link tc,bw=25
 
 ![criandotopologia](https://github.com/user-attachments/assets/9206c691-c6f4-4b54-95b3-c4277b4c274e)
 
