@@ -37,12 +37,12 @@
   - dump -> Para visualizar o IP de todos os hosts:
 
 ![DUMP](https://github.com/user-attachments/assets/e5ae9185-7c39-449d-8304-bb6fa1c6b39f)
-  - net -> Para visualizar o IP de todos os hosts:
-  - 
+  - net -> Para visualizar a conectividade entre os nós, incluindo endereços IP e portas conectadas:
+
 ![NET](https://github.com/user-attachments/assets/558ba49b-c60d-4071-82df-1c4907a0d220)
 
-  - nodes -> Para visualizar o IP de todos os hosts:
-  - 
+  - nodes -> Para listar todos os nós (hosts, switches e controlador) na topologia:
+
 ![NODES](https://github.com/user-attachments/assets/246641df-4644-4599-ba3a-364f048cbca5)
 
 3. Testes de ping entre diferentes nós
@@ -52,9 +52,6 @@
 
 5. Configuração de servidor e cliente TCP usando iperf
 
-h1 iperf -s -p 5555
-
-h2 iperf -c h1 -p 5555 -t 10 -i 1
 
 
 ![printtcp](https://github.com/user-attachments/assets/d752b952-7121-451d-90b4-651d9cdbd800)
