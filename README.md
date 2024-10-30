@@ -51,7 +51,7 @@
 ![PINGALL](https://github.com/user-attachments/assets/9c6c6e28-5d47-4861-a848-9b694b61bdb1)
 
 
-5. Configuração de servidor e cliente TCP usando iperf
+3. Configuração de servidor e cliente TCP usando iperf
 
 
 
